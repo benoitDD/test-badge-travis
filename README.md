@@ -1,2 +1,2 @@
-# test-badge-travis [![Build Status](https://travis-ci.org/benoitDD/test-badge-travis.svg?branch=master)](https://travis-ci.org/benoitDD/test-badge-travis)
+# test-badge-travis [![Build Status](https://travis-ci.org/benoitDD/test-badge-travis.svg?branch=master)](https://travis-ci.org/benoitDD/test-badge-travis) [![Maintainability](https://api.codeclimate.com/v1/badges/ee496b5b381b2e38762a/maintainability)](https://codeclimate.com/github/benoitDD/test-badge-travis/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/ee496b5b381b2e38762a/test_coverage)](https://codeclimate.com/github/benoitDD/test-badge-travis/test_coverage)
 test-badge
