@@ -1,0 +1,24 @@
+{
+  "name": "test-badge-travis",
+  "version": "1.0.0",
+  "description": "test-badge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benoitDD/test-badge-travis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benoitDD/test-badge-travis/issues"
+  },
+  "homepage": "https://github.com/benoitDD/test-badge-travis#readme",
+  "devDependencies": {
+    "jest": "24.8.0"
+  }
+}
