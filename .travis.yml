@@ -3,7 +3,7 @@ node_js:
   - 8.2.1
 env:
   global:
-    - CC_TEST_REPORTER_ID=ABC123
+    - CC_TEST_REPORTER_ID=2d95177e962ca276854b04ec1b71db36d679a53894ce2fd519473ed0c45c655f
 dist: trusty
 addons:
   chrome: stable
